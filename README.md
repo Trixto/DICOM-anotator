@@ -4,6 +4,7 @@ Strep to use:
   3. Choose DICOM
   4. Look to instruction to use
   5. Anotations are saved in same folder as Readed DICOM
+  6. Last button is used to automaticly transform anotation to xml data. All anotation have to be in separate folder. Load only first anotation in folder and program will transform all anotation in that folder. 
 ![image](https://github.com/Trixto/DICOM-anotator/assets/51496670/ef58ee57-9b98-4e05-9e6d-59a773720a92)
 
 Here you can see several buttons:
